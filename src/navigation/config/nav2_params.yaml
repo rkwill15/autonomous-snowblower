@@ -307,4 +307,3 @@ collision_monitor:
       min_height: 0.15
       max_height: 2.0
       enabled: True
-EOF
