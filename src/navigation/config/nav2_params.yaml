@@ -1,5 +1,4 @@
-cat << 'EOF' > /mnt/c/Users/reese/autonomous-snowblower/src/navigation/config/nav2_params.yaml
-amcl:
+mcl:
   ros__parameters:
     use_sim_time: True
     alpha1: 0.2
